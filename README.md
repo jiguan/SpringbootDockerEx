@@ -1,5 +1,5 @@
 Name: Spring Boot with Docker
-Description: This is a simple project to try how to deploy a springboot application within a docker container.
+Description: This is a simple project about how to deploy a springboot application within a docker container.
 
 Steps: 
 1. Build image: mvn package docker:build
